@@ -1,0 +1,11 @@
+
+
+=====Bootstrap====
+
+CSS= Cascading stylesheet
+Bootstrap= Framework of CSS
+
+Bootstrap can be installed in two methods
+
+1. Using cdn link
+2. Downloading source file from Bootstrap Server
